@@ -1,0 +1,30 @@
+[
+    {
+        "2025-05-08": {
+            "first_house": {
+                "below_5": 2.1,
+                "above_5": 2.6
+            },
+            "second_house": {
+                "below_5": 2.525,
+                "above_5": 3.075
+            },
+            "title": "中国人民银行关于下调个人住房公积金贷款利率的通知",
+            "url": "https://www.gov.cn/zhengce/zhengceku/202505/content_7022708.htm"
+        }
+    },
+    {
+        "2024-05-18": {
+            "first_house": {
+                "below_5": 2.35,
+                "above_5": 2.85
+            },
+            "second_house": {
+                "below_5": 2.775,
+                "above_5": 3.325
+            },
+            "title": "中国人民银行关于下调个人住房公积金贷款利率的通知",
+            "url": "https://www.gov.cn/zhengce/zhengceku/202405/content_6952232.htm"
+        }
+    }
+]
